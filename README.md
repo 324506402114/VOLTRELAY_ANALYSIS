@@ -102,17 +102,13 @@ The notebook explicitly handles several known data-quality issues, documented in
 - **Pricing & partners:**
 - **Retention root cause:**
 
-## Recommendations
 
-*(Tie back to VoltRelay's four proposed budget uses — more stations, more batteries, network-wide pricing rollout, or a long-term fleet exclusive)*
-
-1.
-2.
-3.
 
 ## Author
 
-*(Your name / team name here)*
+NAME: CHELLABOINA JANARDHANAMURTHY
+  COMPUTER SCIENCE STUDENT
+  ANDHRA UNIVERSITY
 
 ## License
 
